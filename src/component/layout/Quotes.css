@@ -1,0 +1,21 @@
+.cont{
+    margin-top: 15vh;
+}
+.po{
+    background-color: #231709;
+    color: white;
+    font-family: inherit;
+}
+
+.second{
+    height: 100%;
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.de > img{
+    height: 100%;
+    width: 100%;
+}
