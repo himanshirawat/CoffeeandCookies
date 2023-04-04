@@ -2,7 +2,7 @@ import React from "react";
 import view from '../image/cafe (2).jpg';
 import cofe from '../image/cofee.jpg';
 import cookies from '../image/ChocolateChipCookies.jpg';
-import cake from '../image/cake.jpg';
+import cake from '../image/cake.jpg'; 
 import "./Layout.css";
 
 const Layout =() =>{
